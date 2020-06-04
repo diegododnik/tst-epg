@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HBO (HD)">
+    <display-name lang="pt">HBO (HD)</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Plus HD">
+    <display-name lang="pt">HBO Plus HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Family HD">
+    <display-name lang="pt">HBO Family HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD">
+    <display-name lang="pt">HBO Signature HD</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+</tv>
